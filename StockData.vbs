@@ -125,4 +125,3 @@ Sub StockData()
         ws.Range("R4").Value = max_volume
     Next ws
 End Sub
-
