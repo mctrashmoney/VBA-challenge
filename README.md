@@ -1,5 +1,7 @@
 # MODULE 2 CHALLENGE
 
+### On slack I saw some things shared, especially the importance of the third point I put on here. The credit card code from last thursday was crucial.
+
 1. A very important thing I learned was this as a first source:
     https://stackoverflow.com/questions/39581487/loop-through-all-worksheets-in-workbook/53673884#53673884
 
@@ -24,4 +26,4 @@
     -It kept on running the lowest and biggest 'Percentage Change' of all the worksheets totaled until it occurred to me to set a value BEFORE the worksheet iteration started 
             # THIS WAS A HEADACHE
 
-### On slack I saw some things shared, especially the importance of the third point I put on here. The credit card code from last thursday was crucial.
+
