@@ -1,4 +1,4 @@
-# MODULE 2 CHALLENGE
+# VBA MODULE
 
 ### On slack I saw some things shared, especially the importance of the third point I put on here. The credit card code from last thursday was crucial.
 
